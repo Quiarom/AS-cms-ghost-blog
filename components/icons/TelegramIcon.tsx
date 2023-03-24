@@ -9,7 +9,7 @@ function Twitter_Icon () {
 
   return (
     <Image src={dark == 'dark' ? TelegramLightMode : TelegramDarkMode}
-         alt="Ilustración de una cadena"
+         alt="Logo de Telegram"
          width="32px"
          height="16px"
          placeholder="empty"

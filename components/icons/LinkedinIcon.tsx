@@ -10,7 +10,7 @@ function Linkedin_Icon() {
   return (
 
     <Image src={dark == 'dark' ? LinkedinLightMode : LinkedinDarkMode}
-         alt="Ilustración de una cadena"
+         alt="Logo de Linkedin"
          width="32px"
          height="16px"
          placeholder="empty"
