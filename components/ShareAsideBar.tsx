@@ -6,7 +6,7 @@ function ShareAsideBar (props: any) {
 
             <ShareButton url={props.url} description={`${props.title} \n ${props.description}`} shareIn="Clipboard"/>
 
-            <ShareButton url={props.url} description={`${props.title} \r ${props.description}`} shareIn="Twitter"/>
+            <ShareButton url={props.url} description={`${props.title} \n ${props.description}`} shareIn="Twitter"/>
 
             <ShareButton url={props.url} description={`${props.title} \n ${props.description}`} shareIn="Linkedin"/>
 
